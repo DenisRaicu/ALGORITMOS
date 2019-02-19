@@ -6,7 +6,7 @@
 #include <fstream>
 #include <vector>
 
-// función que resuelve el problema
+// Función que resuelve el problema
 // En el caso peor la función tiene un coste O(n) siendo n el numero
 // de elementos del vector.
 // El caso peor: es que todos los numeros del vector son distintos, 
